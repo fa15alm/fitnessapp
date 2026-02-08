@@ -8,3 +8,4 @@ A fitness app developed for COMP208 (Group Software Project)
 - Julian Causby
 - Zainah Kashif
 - Aleena Ali
+- 
